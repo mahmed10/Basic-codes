@@ -1,8 +1,7 @@
 import os
-try:  
+try:
     os.mkdir(output_path)
-except OSError:  
+except OSError:
     logging.info(os.path.abspath(output_path) + ' folder already existed')
 else:
     logging.info(os.path.abspath(output_path) + ' folder created')
-
