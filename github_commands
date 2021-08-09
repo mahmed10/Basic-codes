@@ -1,0 +1,13 @@
+Git Push commands:
+    git add <file-name_1> <file-name_2>
+    git add --all
+    git commit -m "<messages>"
+    git push
+    git pull -u origin master
+    
+Git Pull commands:
+    git pull 
+    
+Git Code Retrive commands:
+    git rev-parse
+    git rev-parse origin/master
