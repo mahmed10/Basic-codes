@@ -11,3 +11,7 @@ Git Pull commands:
 Git Code Retrive commands:
     git rev-parse
     git rev-parse origin/master
+    
+Git folder delete:
+    git rm <file-name1>
+    git commit -am "<messages>"
